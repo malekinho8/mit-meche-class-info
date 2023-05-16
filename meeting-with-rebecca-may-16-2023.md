@@ -27,6 +27,7 @@
 4. **Professors and Courses**
    - David Trumper - 2.140: Depends on TA support, challenging problem sets.
    - Michael Sema - Translating products out of the lab HST 962.
+   - Acoustics class at MIT is hit or miss depending on the TA
 
 5. **Career and Advising**
    - MechE Alliance.
